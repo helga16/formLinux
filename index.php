@@ -18,13 +18,18 @@
 		}
 		.topdiv{
 			margin-top: 30px;
-
+      border-radius: 5px;
 			background-color: #F2F2F2;
 
-			padding-top: 60px;
+			padding: 60px;
 		}
+    .topdiv-title{
+      text-align: center;
+      font-size: 2rem;
+    }
 	</style>
 	<div class="container topdiv">
+    <p class="topdiv-title">Registration form</p>
 	<form method="post">
   <div class="form-row">
     <div class="form-group col-md-6">

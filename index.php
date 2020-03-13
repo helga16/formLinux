@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <!--<?php require_once('form.php');?>-->
+  <?php require_once('form.php');?>
 	<style>
 		body{
 			background-color: #585965;
